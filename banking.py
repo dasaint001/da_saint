@@ -4,7 +4,7 @@ import random
 def login():
     print("Please enter your details to log in")
     x = True
-    if x is True:
+    if x == True:
         staff_username = str(input("Username: "))
         staff_password = str(input("Password: "))
 
